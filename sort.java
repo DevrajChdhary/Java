@@ -16,7 +16,7 @@ public class sort{
 		if(flag==0){
 		 break;
 		}
-		
+
 	}
 		for(int i=0;i<n;i++){
 		System.out.print(" "+arr[i]);
