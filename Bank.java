@@ -39,6 +39,7 @@ public class Bank{
             System.out.println("Amount withdrawn. New balance: $" + balance);
         }
     }
+    
 
     public void changeAddress(String newAddress) {
         address = newAddress;
