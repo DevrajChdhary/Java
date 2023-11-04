@@ -1,7 +1,7 @@
 import java.util.*;
 
 class MergeSort{
-    
+
     static void MergeArr(int [] arr,int l,int r,int mid){
         int i=0;
         int j=0;
