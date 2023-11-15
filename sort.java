@@ -1,4 +1,4 @@
-import java.util.*;   
+import java.util.*;
 
 public class sort{
 	public static void Bubblesort(int[] arr,int n){
